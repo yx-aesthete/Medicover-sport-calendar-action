@@ -26,10 +26,13 @@ https://drive.google.com/drive/folders/1E1FOkzmjebNeTZPGbD9NEKeNAP4xSggK?usp=sha
 ### - on google Script
 1. go to https://script.google.com/home
 2. add new project <img width="592" alt="image" src="https://user-images.githubusercontent.com/49588850/213845047-b673edec-4aeb-44cb-8bf7-a57ac7a125c4.png">
-3. paste code from file https://github.com/KabanEOS/Medicover-sport-calendar-action/blob/main/MedicoverSportActivityTracker.gs
-   ** it's necessary to set your backup folder name and your calendar id **
-   - ** calendar id ** - it's recommended to create extra sub-calendar dedicated to store gym, etc. data, in calendar settings in section calendar integratin it's showed you calendar id, it ends with "@group.calendar.google.com"
-   - ** name of the backup folder ** - is the name entered in mobile app backup sync configuration, after first backup sync it should be visible in you drive
+3. paste code from main repository file 
+https://github.com/KabanEOS/Medicover-sport-calendar-action/blob/main/MedicoverSportActivityTracker.gs
+   **it's necessary to set your backup folder name and your calendar id**
+   - **calendar id** - it's recommended to create extra sub-calendar dedicated to store gym, etc. data, in calendar settings in section calendar integratin it's showed you calendar id, it ends with "@group.calendar.google.com"
+   - **name of the backup folder** - is the name entered in mobile app backup sync configuration, after first backup sync it should be visible in you drive
+<img width="1038" alt="image" src="https://user-images.githubusercontent.com/49588850/213845801-17c3e273-49d6-4765-8b1a-8d676ef57682.png">
+
 4. add trigger 
 <img width="681" alt="image" src="https://user-images.githubusercontent.com/49588850/213845280-5cd6ee29-4b25-4e1c-8a6f-77c160fa74df.png">
 
