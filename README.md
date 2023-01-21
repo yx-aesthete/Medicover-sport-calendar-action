@@ -38,3 +38,7 @@ set init funtion to be triggered on time base, count in hours, for e.x. 23-00
 ### voila!
 Now u should only associate sport facility codes with thier names in the given file, other case name of your activity will be ugly: "Undefined place activity".
 https://docs.google.com/spreadsheets/d/1j0vFtvU5eS63nPkfbntXFXgo8QfLvO7N_uUcOoxWAT8/edit?usp=sharing
+
+### expected result
+<img width="514" alt="image" src="https://user-images.githubusercontent.com/49588850/213845704-dc6f3ce8-4511-418e-a51e-67ca7a4fd2e1.png">
+
