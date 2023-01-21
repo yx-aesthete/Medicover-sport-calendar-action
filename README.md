@@ -2,6 +2,9 @@
 
 ## Sync your SMS Medicover Sport entry cod conversation with your personal google calendar
 
+### expected result
+<img width="514" alt="image" src="https://user-images.githubusercontent.com/49588850/213845704-dc6f3ce8-4511-418e-a51e-67ca7a4fd2e1.png">
+
 This script is designed to work with Google Calendar and Google Drive. It reads the newest SMS backup file in a specified folder, parses the XML data, and creates events on a calendar using the parsed data. The script also reads a specified sheet, which contains a list of gym codes and corresponding gym names, to match the SMS data with the correct gym name and add it to the calendar event. The script also checks for duplicate events and will only create a new event if it does not already exist on the same day. Additionally, there is a function to delete all events on the calendar, which can be useful in cases where the gym codes or names on the sheet have been updated and duplicate events need to be removed.
 
 ### SETUP INSTRUCTION
@@ -42,6 +45,5 @@ set init funtion to be triggered on time base, count in hours, for e.x. 23-00
 Now u should only associate sport facility codes with thier names in the given file, other case name of your activity will be ugly: "Undefined place activity".
 https://docs.google.com/spreadsheets/d/1j0vFtvU5eS63nPkfbntXFXgo8QfLvO7N_uUcOoxWAT8/edit?usp=sharing
 
-### expected result
-<img width="514" alt="image" src="https://user-images.githubusercontent.com/49588850/213845704-dc6f3ce8-4511-418e-a51e-67ca7a4fd2e1.png">
+
 
