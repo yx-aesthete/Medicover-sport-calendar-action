@@ -1,6 +1,6 @@
 # Medicover Calendar Sync
 
-## Sync your SMS Medicover Sport entry cod conversation with your personal google calendar
+## Sync your SMS Medicover Sport entry code conversation with your personal google calendar
 
 ### expected result
 <img width="514" alt="image" src="https://user-images.githubusercontent.com/49588850/213845704-dc6f3ce8-4511-418e-a51e-67ca7a4fd2e1.png">
